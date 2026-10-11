@@ -1,0 +1,21 @@
+customer_id,customer_name,gender,age,city,state,signup_date
+CUST0001,Rahul Sharma,Male,28.0,Pune,Maharashtra,2024-01-15
+CUST0002,Priya Mehta,Female,32.0,Mumbai,Maharashtra,2024-02-18
+CUST0003,Amit Verma,Male,25.0,Delhi,Delhi,2024-03-22
+CUST0004,Neha Gupta,Female,29.0,Jaipur,Rajasthan,2024-01-10
+CUST0005,Karan Patel,Male,35.0,Ahmedabad,Gujarat,2024-04-12
+CUST0006,Anjali Singh,Female,27.0,Lucknow,Uttar Pradesh,2024-05-05
+CUST0007,Rohit Jain,Male,31.0,Indore,Madhya Pradesh,2024-03-08
+CUST0008,Simran Kaur,Female,24.0,Chandigarh,Chandigarh,2024-06-14
+CUST0009,Arjun Nair,Male,30.0,Kochi,Kerala,2024-07-20
+CUST0010,Pooja Yadav,Female,26.0,Patna,Bihar,2024-08-11
+CUST0011,Vikas Agarwal,Male,42.0,Surat,Gujarat,2024-02-05
+CUST0012,Sneha Joshi,Female,23.0,Nagpur,Maharashtra,2024-09-01
+CUST0013,Manish Kumar,Male,36.0,Bengaluru,Karnataka,2024-03-18
+CUST0014,Divya Shah,Female,28.0,Vadodara,Gujarat,2024-04-27
+CUST0015,Rajesh Mishra,Male,45.0,Kanpur,Uttar Pradesh,2024-05-19
+CUST0016,,Male,27.0,Pune,Maharashtra,2024-06-11
+CUST0017,Riya Singh,Female,,Delhi,Delhi,2024-07-22
+CUST0018,Aman Jain,Male,,Jaipur,Rajasthan,2024-05-10
+CUST0020,Kunal Gupta,Male,,Lucknow,Uttar Pradesh,2024-01-01
+CUST0021,Neha Patel,Female,29.0,Pune,Maharashtra,2024-03-14
